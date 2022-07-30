@@ -271,7 +271,6 @@ h4 {
 }
 
 .live-border {
-  border: 4px solid #1ce783;
   border-radius: 16px;
   padding: 100px;
   display: flex;
