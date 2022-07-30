@@ -29,8 +29,7 @@ ul {
 }
 
 img {
-  vertical-align: middle;
-  border-style: none;
+  width: 100%;
 }
 
 h3 {
@@ -130,7 +129,7 @@ h4 {
 }
 
 .header .logo {
-  width: 270px;
+  width: 600px;
   margin: 20px 0;
 }
 
